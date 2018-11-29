@@ -14,7 +14,7 @@
         <map_page/>
         <mobile_title>Incident List</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>incident</name>
+        <name>sysevent_in_email_action</name>
         <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -26,17 +26,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1d4393e3db7123002aa99235ca9619f0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Incident List</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Incident List 3</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_module_1d4393e3db7123002aa99235ca9619f0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-22 06:47:48</sys_updated_on>
+        <sys_updated_on>2018-11-29 06:25:02</sys_updated_on>
         <timeline_page/>
-        <title>Incident List</title>
+        <title>Incident List 3</title>
         <uncancelable>false</uncancelable>
         <view_name>Incident List</view_name>
         <window_name/>
